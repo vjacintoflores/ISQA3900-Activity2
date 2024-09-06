@@ -15,6 +15,7 @@ max-width: 100%;
 
   #picStuff {
    text-align: center;
+   font-size: 10px;
    max-width: 940px;
    margin: 0 auto;
    padding: 0 5%;
@@ -53,17 +54,6 @@ header {
 
 }
 
-.center {
- text-align: center
-}
-
-
-#logo {
-   text-align: center;
-   margin: 0;
-
- }
-
  h1  {
  font-family: 'Changa One', sans-serif;
  margin: 10px 0;
@@ -93,7 +83,7 @@ h3  {
 NAVIGATION
 **************************************/
  nav {
-	text-align: center;
+	text-align: left;
 	padding: 10px 0;
 	margin: 20px 0 0;
   }
